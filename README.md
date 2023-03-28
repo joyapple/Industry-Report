@@ -7,3 +7,4 @@ The Report Generator can be widely used in various industries, such as market an
 
 ## 📝generate
 In addition, the Report Generator also has the function of quickly generating MD files, which can facilitate users to quickly copy to platforms like Notion. The product's user interface is very simple and clear. Users can easily input keywords, report types, and word limits, and then click the generate button to generate the report. In future versions, we will further enhance the product's functionality and performance to better serve users' needs.
+
