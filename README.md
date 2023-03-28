@@ -13,6 +13,7 @@ here are the steps to use Industry Report:
 👉 Step 1: Install Python environment.
 
 🔑 Step 2: Register for an OPENAI API KEY.
+`openai.api_key = "You_OpenAI_API_Key"`
 
 📂 Step 3: Pull the Industry Report code, modify the OPENAI API value in the code, and save it.
 
